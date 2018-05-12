@@ -1,0 +1,43 @@
+_repo: -Neath-the-Hoof-of-the-TartarThe-Scourge-of-God_36203
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Bain, R. Nisbet (Robert Nisbet)
+    alias: Bain, Robert Nisbet
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '5096'
+    url: http://www.gutenberg.org/2009/agents/5096
+  translator:
+    agent_name: Gaye, Selina
+    gutenberg_agent_id: '38141'
+    url: http://www.gutenberg.org/2009/agents/38141
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jósika, Miklós, báró
+    aliases:
+    - Jósika, Nikolaus, báró
+    - Josika, Miklos, baro
+    - Jósika, Nikolas, Baron
+    - Jósika, Nicolas, báró
+    deathdate: 1865
+    gutenberg_agent_id: '38140'
+    url: http://www.gutenberg.org/2009/agents/38140
+    wikipedia: http://hu.wikipedia.org/wiki/J%C3%B3sika_Mikl%C3%B3s
+description: 'Abridged translation of: Jő a Tatár.'
+gutenberg_issued: '2011-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36203'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungary -- History -- Mongol Invasion, 1241-1242 -- Fiction'
+- !lcc 'PH'
+title: '''Neath the Hoof of the Tartar; Or, The Scourge of God'
+url: http://www.gutenberg.org/ebooks/36203
