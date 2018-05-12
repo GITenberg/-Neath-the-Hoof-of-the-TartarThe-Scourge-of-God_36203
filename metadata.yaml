@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38140
     wikipedia: http://hu.wikipedia.org/wiki/J%C3%B3sika_Mikl%C3%B3s
 description: 'Abridged translation of: Jő a Tatár.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36203#-Neath-the-Hoof-of-the-TartarThe-Scourge-of-God
 gutenberg_issued: '2011-05-24'
 gutenberg_type: Text
 identifiers:
